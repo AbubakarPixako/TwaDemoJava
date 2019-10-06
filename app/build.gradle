@@ -35,5 +35,5 @@ dependencies {
 
     // custome tab
 
-    implementation 'com.github.GoogleChrome.custom-tabs-client:customtabs:91b4a1270b'
+    implementation 'com.github.GoogleChrome.custom-tabs-client:customtabs:d08e93fce3fb3e1f22214ee2f23fddc4f4e92634'
 }
